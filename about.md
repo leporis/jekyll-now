@@ -10,4 +10,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:cmyang@cje.ac.kr)
+[cmyang@cje.ac.kr](mailto:cmyang@cje.ac.kr)
